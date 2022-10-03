@@ -280,6 +280,8 @@ main{
   }
   .burger{
     display:block;
+      background-color:white;
+      border-style:none;
   }
   #top{
     display:block;
