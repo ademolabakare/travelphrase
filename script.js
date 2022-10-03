@@ -5,13 +5,13 @@ $(".aa").on('click',function(){
     });
   });
   $(".bb").on('click',function(){
-    $.ajax("http://localhost/travel_files/francePhrase.html")
+    $.ajax("https://ademolabakare.github.io/french/")
     .done(function(data){
         $(".seconed_side").html(data);
     });
   });
   $(".cc").on('click',function(){
-    $.ajax("http://localhost/travel_files/germanphrases.html")
+    $.ajax("https://ademolabakare.github.io/german/")
     .done(function(data){
         $(".seconed_side").html(data);
     });
