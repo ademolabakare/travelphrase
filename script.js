@@ -1,5 +1,5 @@
 $(".aa").on('click',function(){ 
-    $.ajax("http://localhost/travel_files/homepage.html")
+    $.ajax("https://ademolabakare.github.io/homepage/")
     .done(function(data){
         $(".seconed_side").html(data);
     });
