@@ -281,7 +281,7 @@ main{
   .burger{
     display:block;
       background-color:white;
-      border-style:none;
+      border-style:1px solid white;
   }
   #top{
     display:block;
