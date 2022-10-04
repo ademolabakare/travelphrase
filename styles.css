@@ -357,3 +357,14 @@ main{
 ul{
   list-style:none;
 }
+.sub{
+    font-size:15px;
+}
+.blog-btn1{
+height:30px;
+width:120px;
+border-style:none;
+background-color:black;
+color:white;
+font-size:12px;
+}
