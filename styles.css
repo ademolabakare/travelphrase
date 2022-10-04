@@ -116,9 +116,7 @@ body {
     
   }
 
-.chk{
-  padding-top:10px;
-}
+
 
   #jumbo1{
       height:50vh;
@@ -289,7 +287,9 @@ main{
   #top{
     display:block;
   }
-  
+  .chk{
+  padding-top:10px;
+}
 }
 
 ul{
