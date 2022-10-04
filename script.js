@@ -17,10 +17,14 @@ $(".aa").on('click',function(){
     });
   });
   $(".dd").on('click',function(){
-    var side_text = $("#d").text();
-    $('.seconed_side').html(side_text);
+     $.ajax("https://ademolabakare.github.io/homepage/")
+    .done(function(data){
+        $(".seconed_side").html(data);
+    });
   });
   $(".ee").on('click',function(){
-    var side_text = $("#e").text();
-    $('.seconed_side').html(side_text);
+  $.ajax("https://ademolabakare.github.io/homepage/")
+    .done(function(data){
+        $(".seconed_side").html(data);
+    });
   });
