@@ -135,7 +135,7 @@ background-position:center;
     color:white;
 }
 
- #jumbo2{
+ .jumbo2{
     height:50vh;
     background-image:url("https://user-images.githubusercontent.com/106655720/193433836-71619c1a-6579-4c19-aa2e-3f1b1210fff9.jpg");
     object-fit:contain;
@@ -143,14 +143,14 @@ background-position:center;
  
 
 }
-#jumbo3{
+.jumbo3{
     background-image:url("https://user-images.githubusercontent.com/106655720/193454417-08b5351b-0c4f-4ed4-9e62-82b7f6d992b7.jpg");
     height:50vh;
     object-fit:contain;
     filter:contrast(60%);
 background-position:center;
 }
-#jumbo4{
+.jumbo4{
     background-image:url("https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-porta-nigra.jpg");
     height:50vh;
     object-fit:contain;
@@ -171,7 +171,7 @@ background-color:black;
 color:white;
 }
 
-#img-xx{
+.img-xx{
 background-image: url("https://user-images.githubusercontent.com/106655720/193602093-f3db9d4c-204a-4fcd-bfbc-dc9a3f7b7e3d.jpg");
 object-fit: cover;
 height:50%;
@@ -179,7 +179,7 @@ border-top-left-radius:20px;
 border-top-right-radius:20px;
 }
 
-#img-xv{
+.img-xv{
 background-image: url("https://user-images.githubusercontent.com/106655720/193602103-f44748f4-f896-4188-a671-1bb9c20a28a6.jpg");
 object-fit: cover;
 height:50%;
@@ -187,14 +187,7 @@ border-top-left-radius:20px;
 border-top-right-radius:20px;
 }
 
-  #jumbo1{
-      height:50vh;
-      background-image:url("https://user-images.githubusercontent.com/106655720/193433836-71619c1a-6579-4c19-aa2e-3f1b1210fff9.jpg");
-      object-fit:contain;
-      filter:contrast(60%);
-   
-  
-  }
+
   .jumbo-cont{
       padding-top:50px;
       justify-items:center;
