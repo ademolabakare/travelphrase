@@ -117,7 +117,7 @@ body {
   padding-top:10px;
 }
 
-  #jumbo{
+  #jumbo1{
       height:50vh;
       background-image:url("https://user-images.githubusercontent.com/106655720/193433836-71619c1a-6579-4c19-aa2e-3f1b1210fff9.jpg");
       object-fit:contain;
@@ -129,7 +129,7 @@ body {
       padding-top:50px;
       justify-items:center;
   }
-  .jumbo-txt{
+  .jumbo-txt1{
       text-align:center;
       font-size:50px;
       font-weight:bold;
