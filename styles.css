@@ -117,6 +117,27 @@ body {
   }
 
 
+#jumbo{
+    background-image:url("https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-porta-nigra.jpg");
+    height:50vh;
+    object-fit:contain;
+    filter:contrast(60%);
+background-position:center;
+
+}
+.banner{
+    justify-items:center;
+    padding-top:20px;
+}
+.jumbo-text{
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+}
+
+
+
 
   #jumbo1{
       height:50vh;
