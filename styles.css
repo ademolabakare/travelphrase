@@ -120,7 +120,7 @@ body {
 #jumbo{
     background-image:url("https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-porta-nigra.jpg");
     height:50vh;
-    object-fit:contain;
+    background-size:cover;
     filter:contrast(60%);
 background-position:center;
 
@@ -139,7 +139,7 @@ background-position:center;
  .jumbo2{
     height:50vh;
     background-image:url("https://user-images.githubusercontent.com/106655720/193433836-71619c1a-6579-4c19-aa2e-3f1b1210fff9.jpg");
-    object-fit:contain;
+   background-size:cover;
     filter:contrast(60%);
  
 
@@ -147,14 +147,14 @@ background-position:center;
 .jumbo3{
     background-image:url("https://user-images.githubusercontent.com/106655720/193454417-08b5351b-0c4f-4ed4-9e62-82b7f6d992b7.jpg");
     height:50vh;
-    object-fit:contain;
+  background-size:cover;
     filter:contrast(60%);
 background-position:center;
 }
 .jumbo4{
     background-image:url("https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-porta-nigra.jpg");
     height:50vh;
-    object-fit:contain;
+    background-size:cover;
     filter:contrast(60%);
 background-position:center;
 
@@ -174,7 +174,7 @@ color:white;
 
 .img-xx{
 background-image: url("https://user-images.githubusercontent.com/106655720/193602093-f3db9d4c-204a-4fcd-bfbc-dc9a3f7b7e3d.jpg");
-object-fit: cover;
+background-size:cover;
 height:50%;
 border-top-left-radius:20px;
 border-top-right-radius:20px;
@@ -182,7 +182,7 @@ border-top-right-radius:20px;
 
 .img-xv{
 background-image: url("https://user-images.githubusercontent.com/106655720/193602103-f44748f4-f896-4188-a671-1bb9c20a28a6.jpg");
-object-fit: cover;
+background-size:cover;
 height:50%;
 border-top-left-radius:20px;
 border-top-right-radius:20px;
@@ -269,7 +269,7 @@ float:left;
 }
 #img-x1{
 background-image: url("https://user-images.githubusercontent.com/106655720/190657092-2ac12b3f-5f9e-4e39-8c15-faac279f6620.jpg");
-object-fit: cover;
+background-size:cover;
 height:50%;
 border-top-left-radius:20px;
 border-top-right-radius:20px;
@@ -277,7 +277,7 @@ border-top-right-radius:20px;
 
 #img-x{
 background-image: url("https://user-images.githubusercontent.com/106655720/190657127-9ad244c6-cffc-4475-94c1-16a478a324dc.jpg");
-object-fit: cover;
+background-size:cover;
 height:50%;
 border-top-left-radius:20px;
 border-top-right-radius:20px;
