@@ -19,6 +19,7 @@ body {
     vertical-align: -.125em;
     pointer-events: none;
     fill: currentColor;
+      display:none;
   }
   
   .dropdown-toggle { outline: 0; }
@@ -353,6 +354,9 @@ main{
   .chk{
   padding-top:10px;
 }
+    .bi{
+        display:block;
+    }
 }
 
 ul{
